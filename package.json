@@ -2,6 +2,7 @@
   "name": "my-landing",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://mahakon.github.io/my-landing-page",
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
